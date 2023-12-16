@@ -1,0 +1,14 @@
+.totalCards-style {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.imageCard-style {
+    height: 400px;
+}
+
+.card-img, .card-img-bottom, .card-img-top{
+    height: 200px;
+}
